@@ -1,5 +1,5 @@
 remote_theme: pages-themes/minimal@v0.2.0
-title: Aditya's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Aditya Ravichandran - Software Engineer
+description: Software Engineer with 8+ years experience in developing scalable and low-latency distributed systems at Google and Amazon.
 plugins:
   - jekyll-remote-theme
